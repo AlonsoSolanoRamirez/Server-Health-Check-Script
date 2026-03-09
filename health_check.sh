@@ -1,6 +1,6 @@
 #!/bin/bash
 
-LOG_FILE="logs/health_check.log"
+LOG_FILE="/workspaces/Server-Health-Check-Script/server-health-check-script/logs/health_check.log"
 
 echo "Starting system health check..." >> $LOG_FILE
 
